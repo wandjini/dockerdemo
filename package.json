@@ -1,0 +1,11 @@
+{
+    "name": "my-app",
+    "author": {
+        "name": "Guy Wandji",
+        "email": "wandjini@gmail.com"
+
+    },
+    "dependencies": {
+        "express": "4.18.2"
+    }
+}
